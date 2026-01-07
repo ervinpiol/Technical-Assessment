@@ -35,6 +35,7 @@ Ensure you have the following installed:
 3. Install dependencies:
    ```bash
    uv sync
+   playwright install chromium
    ```
 4. Run the FastAPI application:
    ```bash
